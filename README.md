@@ -5,7 +5,9 @@ NekoAntiCheat - AntiCheat for LiteLoaderBDS for Minecraft Bedrock Server!
 |:---|:---:|:---:|:---:|
 | AntiGive | ✔ | ✔ | ✔ |
 | AntiEnchant | ✔ | ✔ | ✔ |
-| AntiXP | ✔ | ✔ | ✔ |
+| AntiXP | ✔ | ❌ | ✔ |
+| AntiFly | ❌ | ❌ | ❌ |
+| AntiCrash | ✔ | ✔ | ✔ |
 # NekoAntiCheat BlackList:
 Bandomas Server | 194.87.236.3
 
