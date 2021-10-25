@@ -15,4 +15,4 @@ NekoAntiCheat - AntiCheat for LiteLoaderBDS for Minecraft Bedrock Server!
 # NekoAntiCheat BlackList:
 PagodaRenewal | pagodarenew.cf
 
-# We are using GPL v3 License!
+# We are using AGPL v3 License!
