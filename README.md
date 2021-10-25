@@ -1,6 +1,6 @@
 # NekoAntiCheat
 NekoAntiCheat - AntiCheat for LiteLoaderBDS for Minecraft Bedrock Server!
-Special thanks to:
+# Special thanks to:
 * GuXiang
 * WaterSheep
 * prorok
