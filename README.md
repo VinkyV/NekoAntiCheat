@@ -2,8 +2,6 @@
 NekoAntiCheat - AntiCheat for LiteLoaderBDS for Minecraft Bedrock Server!
 # Special thanks to:
 * GuXiang
-* WaterSheep
-* prorok
 # NekoAntiCheat Features:
 |  | ToolBox | Zephyr | Horion | Trero |
 |:---|:---:|:---:|:---:|:---:|
