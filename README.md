@@ -8,7 +8,10 @@ NekoAntiCheat - AntiCheat for LiteLoaderBDS for Minecraft Bedrock Server!
 | AntiGive | ✔ | ✔ | ✔ | - |
 | AntiEnchant | ✔ | - | ✔ | - |
 | AntiXP | ✔ | ❌ | ✔ | - |
-| AntiFly | ❌ | ❌ | ❌ | ❌ |
+| AntiFlight | ❌ | ❌ | ❌ | ❌ |
+| AntiNoclip | ❌ | ❌ | ❌ | ❌ |
+| AntiNuker | ❌ | ❌ | ❌ | ❌ |
+| AntiXRay | ❌ | ❌ | ❌ | ❌ |
 | AntiCrash | ✔ | ✔ | ✔ | - |
 # NekoAntiCheat BlackList:
 * Dedicated Server | localhost | 127.0.0.1 | 192.168.0.1 | 192.168.1.1
